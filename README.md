@@ -10,13 +10,15 @@
 
 **Instructions**
 
-1. Place the folder Mystrix_Pro in your MIDI Remote Scripts folder. In MacOS is:\
+1. Download code.zip from Releases and unziped anywhere in your machine.
+
+2. Place the folder Mystrix_Pro in your MIDI Remote Scripts folder. In MacOS is:\
 ```/Applications/[Ableton Live version].app/Contents/App-Resources/MIDI Remote Scripts```\
 I am not using a Windows machine so for Windows you have to search the location.
 
-2. Upload the AbletonLive_CustomMap.uada with [editor.203.io ](https://edit.203.io/) to your Mystrix Pro.
+3. Upload the AbletonLive_CustomMap.uada with [editor.203.io ](https://edit.203.io/) to your Mystrix Pro.
 
-3. Check the image bellow for Ableton Live settings\
+4. Check the image bellow for Ableton Live settings\
    <img width="556" height="611" alt="Screenshot 2026-01-17 at 10 52 44 AM" src="https://github.com/user-attachments/assets/ab4e88fb-31b6-499f-a89a-56eb683f62f3" />
    
    Please note: Port 1 is selected and **not** Port 2
