@@ -10,7 +10,7 @@
 
 **Instructions**
 
-1. Download code.zip from Releases and unziped anywhere in your machine.
+1. Download code.zip from Releases and unzip it anywhere in your machine.
 
 2. Place the folder Mystrix_Pro in your MIDI Remote Scripts folder. In MacOS is:\
 ```/Applications/[Ableton Live version].app/Contents/App-Resources/MIDI Remote Scripts```\
