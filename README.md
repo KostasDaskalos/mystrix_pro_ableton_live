@@ -51,7 +51,7 @@ Thats it! If you need help modifying anything feel free to ask!
 
 **Acknowledgement**
 
-The scripts here are modifications of the **excelent** work done here https://github.com/laidlaw42/ableton-live-midi-remote-scripts 
+The scripts are modifications of the **excelent** work done here https://github.com/laidlaw42/ableton-live-midi-remote-scripts 
 
 
 
