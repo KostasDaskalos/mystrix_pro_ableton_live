@@ -4,7 +4,7 @@
 
 **Requirments:**
 
-- Mystrix Pro
+- Mystrix Pro ( in Custome Map Mode )
 - Ableton Live 12 ( tested in 12.3 )
 - MatrixOS 3.1
 
